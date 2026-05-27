@@ -1,6 +1,6 @@
-### 🔥**Hackathons 2024-2025**🔥
+# 🔥** Popular Hackathons 2024-2025**🔥
 
-| Date            | Name            | Location     | Link                                                                       |
+| Previous Date   | Name            | Location     | Link                                                                       |
 | --------------- | --------------- | ------------ | -------------------------------------------------------------------------- |
 | Aug 02-04, 2024 | Hack the 6ix    | Toronto      | [HackThe6ix](https://hackthe6ix.com/)                                      |
 | Sep 13-15, 2024 | Hack The North  | Waterloo     | [HackTheNorth](https://hackthenorth.com/)                                  |
