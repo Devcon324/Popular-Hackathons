@@ -1,4 +1,4 @@
-# 🔥 Popular Hackathons 2024-2025 🔥
+# 🔥 Popular Hackathons Fall 2024 - Winter 2025 🔥
 
 | Previous Date   | Name            | Location     | Link                                                                       |
 | --------------- | --------------- | ------------ | -------------------------------------------------------------------------- |
