@@ -9,13 +9,13 @@
 | Sep25,Oct 02-09 | Technata Hacks  | Ottawa       | [TechnataHacks](https://www.discovertechnata.com/discover-technata-hacks/) |
 | Sep 27-29, 2024 | Shell Hacks     | Florida      | [Shell Hacks](https://www.shellhacks.net/)                                 |
 | Oct 26-27, 2024 | NewHacks        | Toronto      | [NewHacks](https://newhacks.ca/)                                           |
-| Oct _4-_6, 2024 | Hack the Valley | Toronto      | [HackTheValley](https://hackthevalley.io/)                                 |
+| Oct 4-6, 2024   | Hack the Valley | Toronto      | [HackTheValley](https://hackthevalley.io/)                                 |
 | Nov 29, 2024    | Hack Western    | London       | [HackWestern](https://www.hackwestern.com/)                                |
 | Jan 25-26, 2025 | UofTHacks       | Toronto      | [UofTHacks](https://uofthacks.com/)                                        |
 | Jan 18-19, 2025 | nwHacks         | Vancouvar    | [nwHacks](https://nwhacks.io/)                                             |
 | Jan 24-26, 2025 | QHacks          | Kingston     | [QHacks](https://qhacks.io/)                                               |
 | Feb 16-18, 2025 | TreeHacks       | California   | [TreeHacks](https://www.treehacks.com/)                                    |
-| Jan _8-10, 2025 | CUSEC           | Montreal     | [CUSEC](https://2024.cusec.net/)                                           |
+| Jan 8-10, 2025  | CUSEC           | Montreal     | [CUSEC](https://2024.cusec.net/)                                           |
 | Jan 16-18, 2025 | uOttaHack       | Ottawa       | [uOttaHack](https://www.uottahack.ca/)                                     |
 | Jan 17-18, 2025 | McHacks         | Montreal     | [McHacks](https://www.mchacks.ca/)                                         |
 | Feb 01-02, 2025 | ConuHacks       | Montreal     | [ConuHacks](https://conuhacks.io/)                                         |
